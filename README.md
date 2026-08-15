@@ -1,2 +1,1 @@
-# BioMed_MCPs
-Curated, verified list of free biomedical APIs and MCP servers for RNA-seq, DNA methylation, CNV, proteomics, radiology, and digital pathology — built for an API vs MCP hands-on workshop.
+This report catalogs free, publicly accessible APIs and ready-made MCP servers for biomedical research — covering RNA-seq, DNA methylation, copy number variation, proteomics, radiology, and digital pathology. Each entry includes the base URL, authentication requirements, and a working example call, verified against current provider documentation as of August 2026. Compiled as part of a hands-on Python workshop on API vs. MCP architectures.
